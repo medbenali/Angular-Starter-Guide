@@ -1,0 +1,18 @@
+
+
+
+button {
+
+    color: #ffffff;
+    padding: 15px;
+    background-color: crimson;
+    font-size: 16px;
+    border: none;
+    border-radius: 33px;
+}
+
+
+.button-2 {
+
+    background: darkcyan;
+}
